@@ -1,14 +1,25 @@
 # calc-cli
-Консольный калькулятор с историей операций и сохранением в файл. Реализован на Python.
+
+Консольный калькулятор с историей операций и сохранением в файл.  
+Реализован на Python.
 
 [![CI](https://github.com/Belannandere/calc-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/Belannandere/calc-cli/actions/workflows/ci.yml)
 
-## Запуск через Docker
+---
+
+## Возможности
+
+- Арифметические операции: `+`, `-`, `*`, `/`
+- История операций в памяти и в файле `history.txt`
+- Команды:
+  - `history` — показать историю
+  - `clear` — очистить историю
+  - `exit` — выйти
+- Обработка ошибок (деление на ноль, неверный ввод)
+
+---
+
+## Запуск локально (без Docker)
 
 ```bash
-docker build -t calc-cli .
-docker run -it calc-cli
-
-## Демонстрация работы
-
-![Демонстрация работы калькулятора](assets/demo.gif)
+python main.py
