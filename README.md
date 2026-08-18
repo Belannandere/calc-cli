@@ -8,3 +8,7 @@
 ```bash
 docker build -t calc-cli .
 docker run -it calc-cli
+
+## Демонстрация работы
+
+![Демонстрация работы калькулятора](demo.gif)
