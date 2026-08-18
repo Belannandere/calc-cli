@@ -19,6 +19,11 @@
 
 ---
 
+![Демонстрация работы калькулятора](https://raw.githubusercontent.com/Belannandere/calc-cli/main/assets/demo1.gif)
+
+
+---
+
 ## Запуск локально (без Docker)
 
 ```bash
