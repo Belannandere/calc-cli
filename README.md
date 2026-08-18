@@ -19,8 +19,9 @@
 
 ---
 
-![Демонстрация работы калькулятора](https://raw.githubusercontent.com/Belannandere/calc-cli/main/assets/demo1.gif)
+### Демонстрация работы калькулятора
 
+![Демонстрация работы калькулятора](https://raw.githubusercontent.com/Belannandere/calc-cli/main/assets/demo1.gif)
 
 ---
 
