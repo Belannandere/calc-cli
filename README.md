@@ -24,4 +24,4 @@
 ```bash
 python main.py
 
-![Демонстрация работы калькулятора](assets/demo.gif)
+![Демонстрация работы калькулятора](assets/demo1.gif)
