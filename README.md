@@ -23,3 +23,5 @@
 
 ```bash
 python main.py
+
+![Демонстрация работы калькулятора](assets/demo.gif)
