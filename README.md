@@ -29,3 +29,13 @@
 
 ```bash
 python main.py
+```
+---
+
+## Запуск через Docker
+
+```bash
+docker build -t calc-cli .
+docker run -it calc-cli
+```
+---
