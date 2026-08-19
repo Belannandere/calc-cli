@@ -30,7 +30,6 @@
 ```bash
 python main.py
 ```
----
 
 ## Запуск через Docker
 
